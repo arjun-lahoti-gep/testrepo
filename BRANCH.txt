@@ -1,0 +1,4 @@
+git checkout <branch>: switch to branch
+git branch <branch>: create new branch
+git checkout -b <branch>: create new branch and switch to it
+git merge <branch>: merge branch into current

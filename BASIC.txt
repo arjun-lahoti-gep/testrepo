@@ -1,0 +1,5 @@
+git clone: clone a repo
+git add .: add new files into repo
+git commit -m "commit" - commit
+git push: push changes to repo
+git pull origin <master>: update branch on local machine
