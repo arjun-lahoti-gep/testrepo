@@ -1,0 +1,1 @@
+This note is testing git add fn. 
